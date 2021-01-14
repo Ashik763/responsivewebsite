@@ -1,0 +1,41 @@
+.introduction{
+    background-color: rgba(236, 175, 175,.1);
+}
+
+.container-fluid img{
+    height: 50px;
+    width: auto;
+
+}
+.nike-react{
+    padding-right: 150px;
+}
+.nike-react h1{
+    position: relative;
+    top:45%;
+    left:45%;
+}
+.nike-react h5{
+    position: relative;
+    top:50%;
+    left:45%;
+    
+}
+.btn-1{
+    color:white;
+    background-color:steelblue;
+    position: relative;
+    
+    top:53%;
+    left:45%;
+}
+.btn-1 img{
+    height: 15px;
+}
+.btn img{
+    height: 15px;
+}
+.card-footer h1{
+    float:right;
+    color:orangered;
+}
