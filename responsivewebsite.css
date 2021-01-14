@@ -24,10 +24,9 @@
 .btn-1{
     color:white;
     background-color:steelblue;
-    position: relative;
-    
-    top:53%;
-    left:45%;
+   
+
+ 
 }
 .btn-1 img{
     height: 15px;
@@ -38,4 +37,18 @@
 .card-footer h1{
     float:right;
     color:orangered;
+}
+
+.bd-highlight h5{
+    float: left;
+}
+.bd-highlight img{
+    height: 80px;
+}
+
+
+.col-md-7 h1{
+    color:orangered;
+    margin: 20%;
+
 }
